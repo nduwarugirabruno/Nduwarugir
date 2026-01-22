@@ -24,7 +24,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@linksheiks" height="30" width="40" />
     </a>
     <a href="https://t.me/LinkSheikah" target="blank">
-        <img align="center" src="https://cdn.simpleicons.org/telegram/black" alt="@LinkSheikah" height="30" width="40" title="Telegram - @LinkSheikah" />
+        <img align="center" src="https://cdn.simpleicons.org/telegram" alt="@LinkSheikah" height="30" width="40" title="Telegram - @LinkSheikah" />
     </a>
 </p>
 
